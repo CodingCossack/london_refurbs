@@ -1,14 +1,6 @@
-Apologies for the confusion earlier. It seems that the markdown formatting was enclosed within triple backticks, causing GitHub to interpret it as a code block rather than rendering the markdown properly. To ensure that your README is formatted correctly on GitHub, you should **copy the markdown content without the enclosing triple backticks**.
-
-Below is the complete markdown content for your GitHub README. You can copy everything from `# London Refurbishment Company Directory` downwards and paste it directly into your `README.md` file on GitHub.
-
----
-
 # London Refurbishment Company Directory
 
 **London Refurbishment Company Directory** is your trusted partner for connecting individuals and businesses with the best service providers across Greater London. Our platform is designed to simplify your search for trusted professionals specializing in refurbishment, restoration, installation, and maintenance services. Whether you're embarking on a residential project, managing a commercial development, or looking for niche services, we offer a comprehensive solution tailored to your needs.
-
-![London Refurbs Logo](https://www.dropbox.com/scl/fo/0qpipa54vp2lddb7nqdzb/AJLJmATAfZDw_BDWxtsK2wU?rlkey=z5w0xbxu7eljuu0rx19gmttyp&dl=1)
 
 ## Table of Contents
 - [Features](#features)
@@ -147,9 +139,6 @@ Founded in 2024 by Dima Stasyuk, London Refurbs aims to provide a localized, hig
 - **Hours:** Mon–Sun, 8am–8pm
 
 **Google My Business:** [London Refurbishments](https://g.co/kgs/Nh1ZpyK)
-
-**Map:**
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9934.000310748623!2d-0.0797555!3d51.5040409!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876030023c1bddd%3A0x670942be9f78df1f!2sLondon%20Refurbishments!5e0!3m2!1sen!2suk!4v1733748144477!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Get Started
 Whether you're a user looking for reliable refurbishment services or a business aiming to increase your visibility, London Refurbs is here to help.
